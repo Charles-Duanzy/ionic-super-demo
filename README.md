@@ -30,13 +30,13 @@ For MacOS:
 sudo npm i -g cordova
 ```
 
-#### Start an app
+### Start an app
 
 ```bash
-ionic start myApp tabs
+ionic start myApp super
 ```
 
-#### Run your app
+### Run your app
 
 ```bash
 cd myApp 
@@ -45,5 +45,5 @@ ionic serve
 
 For more Commands, you can see [Commands](https://ionicframework.com/docs/cli/commands.html).
 
-#### More Demo
-For tab demo, you can see [ionic-tab-demo](https://github.com/Charles-Duanzy/ionic-tab-demo).
+### More Demo
+For tab demo and more study information.You can go [ionic-tab-demo](https://github.com/Charles-Duanzy/ionic-tab-demo).
